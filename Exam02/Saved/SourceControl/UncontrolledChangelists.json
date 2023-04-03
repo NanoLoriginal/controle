@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/Animations/AnimBP_Master.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/BattleWizardPolyart/CharacterBP/BP_WizzardPlayer.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/Maps/Main_Map.umap",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/Animations/AnimBP_Player.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/Animations/BS_Movement.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/BattleWizardPolyart/Meshes/UE4_Mannequin_Skeleton.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/ThirdPerson/Input/Actions/IA_AttackCAC.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/ThirdPerson/Input/Actions/IA_AttackRange.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/BattleWizardPolyart/Animations/AnimMontage_Attack.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/BattleWizardPolyart/CharacterBP/BP_Skeleton.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/Animations/BS_Skele.uasset",
+				"C:/Users/game2/Documents/Unreal Projects/Exam02/Content/Animations/AnimBP_Skeleton.uasset"
+			]
+		}
+	]
+}
